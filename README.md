@@ -42,9 +42,9 @@ Atualmente, meu foco está em Inteligência Artificial. Estou estudando Python c
 
 ## Projetos e Estudos
 Abaixo segue alguns links com exemplos de códigos que criei durante minha carreira:
-- **PostgreSQL** [PostgreSQL](link:https://github.com/bravo18br/bravo18br/tree/main/SQL/Postgre)
-- **JavaScript** [JavaScript](link:https://github.com/bravo18br/bravo18br/tree/main/JavaScript)
-- **Laravel** [Laravel](link:https://github.com/bravo18br/bravo18br/tree/main/PHP/Laravel)
+- **PostgreSQL** [PostgreSQL](https://github.com/bravo18br/bravo18br/tree/main/SQL/Postgre)
+- **JavaScript** [JavaScript](https://github.com/bravo18br/bravo18br/tree/main/JavaScript)
+- **Laravel** [Laravel](https://github.com/bravo18br/bravo18br/tree/main/PHP/Laravel)
 
 ## Contato
 - **E-mail:** [bravo18br@gmail.com](mailto:bravo18br@gmail.com)
