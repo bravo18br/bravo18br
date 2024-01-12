@@ -45,6 +45,14 @@ Abaixo segue alguns links com exemplos de códigos que criei durante minha carre
 - [**PostgreSQL**](https://github.com/bravo18br/bravo18br/tree/main/SQL/Postgre)
 - [**JavaScript**](https://github.com/bravo18br/bravo18br/tree/main/JavaScript)
 - [**Laravel**](https://github.com/bravo18br/bravo18br/tree/main/PHP/Laravel)
+- [**Python**](https://github.com/bravo18br/bravo18br/tree/main/Python)
+- [**HTML5**](https://github.com/bravo18br/bravo18br/tree/main/HTML5)
+
+## Cursos
+Segue lista de alguns cursos relevantes
+- [**Cursos Alura**](https://cursos.alura.com.br/user/bravo18br/fullCertificate/d1aebbde7973c38cf9af7581017a3431)
 
 ## Contato
 - **E-mail:** [bravo18br@gmail.com](mailto:bravo18br@gmail.com)
+- **Celular:** 041 98419-1656
+- [**WhatsApp**](https://wa.me/5541984191656)
