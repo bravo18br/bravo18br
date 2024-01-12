@@ -1,5 +1,4 @@
 # Exemplos de Código em JavaScript
-
 Nessa pasta, salvei alguns exemplos de código que desenvolvi em JavaScript. 
 
 Por questões de segurança da informação, os dados não são reais, mas a estrutura sim. Esses exemplos fazem parte de um aplicativo desenvolvido para uma Prefeitura, cujo propósito é calcular o valor final da passagem dos ônibus.
